@@ -3,8 +3,8 @@
 
 
 Student::Student() {
-  name = new std::string(0);
-  age = new int(0);
+  name = new std::string();
+  age = new int();
 
   std::cout << "Student object created!\n";
 }
