@@ -1,4 +1,7 @@
+#include <iostream>
 #include "Student.hpp"
+
+using namespace std;
 
 /*******************************************************************************
  * Function prototypes
